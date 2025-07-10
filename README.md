@@ -2,20 +2,22 @@
 
 ## A Modern HTML & CSS Web Project
 
-*(Optional: Replace `screenshot.png` with an actual screenshot of your project once available)*
+-----
+
+**This project is a practice tutorial based on a web development tutorial by Huxn-Webdev.** It's been a valuable resource for learning and reinforcing core HTML and CSS concepts.
 
 -----
 
 ## Table of Contents
 
-  * [About](#About)
-  * [Features](#Features)
-  * [Technologies Used](#technologies-used)
-  * [Getting Started](#getting-started)
-  * [Usage](#Usage)
-  * [Contributing](#Contributing)
-  * [License](#License)
-  * [Contact](#Contact)
+  * [About](https://www.google.com/search?q=%23About)
+  * [Features](https://www.google.com/search?q=%23Features)
+  * [Technologies Used](https://www.google.com/search?q=%23technologies-used)
+  * [Getting Started](https://www.google.com/search?q=%23getting-started)
+  * [Usage](https://www.google.com/search?q=%23Usage)
+  * [Contributing](https://www.google.com/search?q=%23Contributing)
+  * [License](https://www.google.com/search?q=%23License)
+  * [Contact](https://www.google.com/search?q=%23Contact)
 
 -----
 
@@ -100,4 +102,4 @@ Distributed under the MIT License. See the `LICENSE` file for more information.
 ## Contact
 
 [AbdelrahmanTechCS/Project Contact] - [abdelrahmantechcs@gmail.com](mailto:abdelrahmantechcs@gmail.com)
-Project Link: [Clipper\ Comb\ Collective](https://github.com/Abd-El-Rahman-Mohamed/Clipper-Comb-Collective)
+Project Link: [Clipper\\ Comb\\ Collective](https://github.com/Abd-El-Rahman-Mohamed/Clipper-Comb-Collective)
